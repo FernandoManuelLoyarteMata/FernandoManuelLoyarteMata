@@ -11,6 +11,8 @@ Some screenshots
 Screenshots
 ![Playhouse](https://drive.google.com/uc?id=1o9B7YvNFEQA3h8L6xSVfKc-_bCsCGu8w)
 
-## Check out my fully built legal cannabis seed bank at [DorianGreen](https://sativa-ebon.vercel.app/)
+## E-commerce with online purchases.
+Full development from scratch of an e-commerce with online purchases. 
+This is a website for a legal cannabis seed bank, featuring functional filters, shopping carts, payment systems, and a CMS integration designed for non-specialized administrators. The design is primarily intended for desktop screens. You can visit the site at [DorianGreen](https://sativa-ebon.vercel.app/)
 Some Screenshots
 ![DorianGreen](https://drive.google.com/uc?id=10EsSVr1KNrAsp8GbHbpiTkA8R2LILfk_)
