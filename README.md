@@ -3,11 +3,13 @@
 
 I'm glad you found me.
 ## New!
-Check out my last component (still in construction) at [fike-vol1](https://fike-vol1.vercel.app/)  
+Check out my last component (still in construction) at [fike-vol1](https://fike-vol1.vercel.app/) for a Fake Nike Site
+
 Some screenshots
 ![Screenshots](https://drive.google.com/uc?id=1j97ksueFyIRmJDtyFSKDHbJgEyJHy8dk)
 
-## Of course, I was also going to build a Netflix clone in React.
+## Netflix clone with React.
+May God not ask me why I made another Netflix clone. But here it is, enjoy!
 
 Screenshots
 ![Playhouse](https://drive.google.com/uc?id=1o9B7YvNFEQA3h8L6xSVfKc-_bCsCGu8w)
