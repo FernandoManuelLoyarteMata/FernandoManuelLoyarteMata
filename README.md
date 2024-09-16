@@ -14,6 +14,14 @@ May God not ask me why I made another Netflix clone. But here it is, enjoy!
 Screenshots
 ![Playhouse](https://drive.google.com/uc?id=1o9B7YvNFEQA3h8L6xSVfKc-_bCsCGu8w)
 
+## Just a very simple scroll test.
+Extremely simple project to convert a video to JSON and synchronize it with scrolling using Lottie, so that the video progresses as you scroll.
+
+Screenshots
+![Oxygen](https://drive.google.com/uc?id=1mD2B5zwq6BG5vy41i2497tCRk7od6pUs)
+
+
+
 ## E-commerce with online purchases.
 Full development from scratch of an e-commerce with online purchases. 
 This is a website for a legal cannabis seed bank, featuring functional filters, shopping carts, payment systems, and a CMS integration designed for non-specialized administrators. The design is primarily intended for desktop screens. You can visit the site at [DorianGreen](https://sativa-ebon.vercel.app/)
