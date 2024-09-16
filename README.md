@@ -15,7 +15,7 @@ Screenshots
 ![Playhouse](https://drive.google.com/uc?id=1o9B7YvNFEQA3h8L6xSVfKc-_bCsCGu8w)
 
 ## Just a very simple scroll test.
-Extremely simple project to convert a video to JSON and synchronize it with scrolling using Lottie, so that the video progresses as you scroll.
+Simple project converting a video to JSON and synchronizing it with scrolling using Lottie and GSAP, so that the video progresses as you scroll.
 [Oxygen](https://simple-scroll-n2.vercel.app/)
 
 Screenshots
