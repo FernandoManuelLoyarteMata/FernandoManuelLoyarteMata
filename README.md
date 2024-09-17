@@ -14,6 +14,13 @@ May God not ask me why I made another Netflix clone. But here it is, enjoy!
 Screenshots
 ![Playhouse](https://drive.google.com/uc?id=1o9B7YvNFEQA3h8L6xSVfKc-_bCsCGu8w)
 
+## Smoothing to a 3D Cube with Mouse.
+Creating a 3D cube using Framer Motion and Three.js for presentation purposes. 
+![lab](https://cube-mocha.vercel.app/))
+
+Screenshots
+![lab](https://drive.google.com/uc?id=1Jf3cYv6nqOzOZlFIJMxwI1NxKV8EHeAi)
+
 ## Just a very simple scroll test.
 Simple project converting a video to JSON and synchronizing it with scrolling using Lottie and GSAP, so that the video progresses as you scroll.
 [Oxygen](https://simple-scroll-n2.vercel.app/)
