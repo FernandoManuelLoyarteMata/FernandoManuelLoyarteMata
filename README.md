@@ -16,7 +16,7 @@ Screenshots
 
 ## Smoothing to a 3D Cube with Mouse.
 Creating a 3D cube using Framer Motion and Three.js for presentation purposes. 
-[lab](https://cube-mocha.vercel.app/)
+-->[lab](https://cube-mocha.vercel.app/)
 
 Screenshots
 ![lab](https://drive.google.com/uc?id=1Jf3cYv6nqOzOZlFIJMxwI1NxKV8EHeAi)
