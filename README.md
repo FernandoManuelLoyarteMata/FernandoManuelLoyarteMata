@@ -8,6 +8,12 @@ Check out my last component (still in construction) at [fike-vol1](https://fike-
 Some screenshots
 ![Screenshots](https://drive.google.com/uc?id=1j97ksueFyIRmJDtyFSKDHbJgEyJHy8dk)
 
+## Simple zoom parallax for Honda.
+Just another scroll effect for a landing or whatever, just for fun.  --> [Honda](https://image-scroll-ashen.vercel.app/)
+
+Screenshots
+![Honda](https://drive.google.com/uc?id=1Kx72_13lDGz4LTXMJkhGA1r7ZSLs0qTo)
+
 ## Netflix clone with React.
 May God not ask me why I made another Netflix clone. But here it is, enjoy!
 
