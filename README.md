@@ -22,10 +22,10 @@ Screenshots
 
 ## Smoothing to a 3D Cube with Mouse.
 Creating a 3D cube using Framer Motion and Three.js for presentation purposes. 
--->[lab](https://cube-mocha.vercel.app/)
+-->[cube](https://cube-mocha.vercel.app/)
 
 Screenshots
-![lab](https://drive.google.com/uc?id=1Jf3cYv6nqOzOZlFIJMxwI1NxKV8EHeAi)
+![cube](https://drive.google.com/uc?id=1D5m1gd63HJdzskAk20-30qef_m6Wa6jQ)
 
 ## Just a very simple scroll test.
 Simple project converting a video to JSON and synchronizing it with scrolling using Lottie and GSAP, so that the video progresses as you scroll.
